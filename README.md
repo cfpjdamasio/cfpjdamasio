@@ -16,11 +16,6 @@
 
 - 📫 How to reach me **contato@julianadamasio.com.br**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/judamasioarquiteta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="judamasioarquiteta" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">💻Teck Stack</h3>
 <p align="left"> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -35,8 +30,8 @@
 
 <h3 align="left">💬 Social</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://instagram.com/judamasioarquiteta" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/juliana-damasio-32013a25/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 </body>
