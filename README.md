@@ -16,8 +16,8 @@
 
 - Additional qualifications:
 
-    -**MBA in Sustainable Constructions** <br>
-    -**Master's in Mechanical Engineering with a focus on Energy Engineering** <br><br>
+    - **MBA in Sustainable Constructions** <br>
+    - **Master's in Mechanical Engineering with a focus on Energy Engineering** <br><br>
 
 Feel free to reach out for any inquiries or collaborations!<br>
 
