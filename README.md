@@ -8,13 +8,13 @@
 <h1 align="center">Hi 👋, I'm Juliana Damasio</h1>
 <h3 align="center">A passionate Jr. Fullstack developer and architect from Brazil</h3>
 
-- 🔭 I’m currently working on **CFP Energy**
+- 🌱 I’m currently working on **CFP Energy**
 
-- 🌱 I’m currently learning **PHP and Laravel**
+- 💻 I’m currently learning **PHP and Laravel**
 
 - 📫 How to reach me **contato@julianadamasio.com.br**
 
-- Additional qualifications:
+- 📚 Additional qualifications:
 
     - **MBA in Sustainable Constructions** <br>
     - **Master's in Mechanical Engineering with a focus on Energy Engineering** <br><br>
