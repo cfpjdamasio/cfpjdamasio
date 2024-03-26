@@ -16,11 +16,10 @@
 
 - Additional qualifications:
 
-    -> MBA in Sustainable Constructions 
-<br>
-    -> Master's in Mechanical Engineering with a specialization in Energy Engineering
+    -> MBA in Sustainable Constructions <br>
+    -> Master's in Mechanical Engineering with a specialization in Energy Engineering <br><br>
 
-Feel free to reach out for any inquiries or collaborations!
+Feel free to reach out for any inquiries or collaborations!<br>
 
 Best regards,
 Juliana Damasio
