@@ -14,6 +14,16 @@
 
 - 📫 How to reach me **contato@julianadamasio.com.br**
 
+- Additional qualifications:
+
+    -> MBA in Sustainable Constructions
+    -> Master's in Mechanical Engineering with a specialization in Energy Engineering
+
+Feel free to reach out for any inquiries or collaborations!
+
+Best regards,
+Juliana Damasio
+
 <h3 align="left">💻Teck Stack</h3>
 <p align="left"> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
